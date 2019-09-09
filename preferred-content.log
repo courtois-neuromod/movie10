@@ -1,2 +1,2 @@
-14ca3d5f-f450-439b-8736-2ff2428de93b anything timestamp=1568042397.710000397s
+14ca3d5f-f450-439b-8736-2ff2428de93b (exclude=derivatives/*) and (include=*.nii.gz) timestamp=1568043237.084621462s
 dda34bcb-3443-462b-abf6-e63ee4a14e24  timestamp=1567801704.650947645s
