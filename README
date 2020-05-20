@@ -1,0 +1,5 @@
+# Neuromod: video10 subdataset
+
+## Data structure
+
+A symlink to the first anatomical session was added to each participant folder, allowing to preprocess using standard BIDS.
