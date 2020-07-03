@@ -39,6 +39,8 @@
    "InstitutionalDepartmentName": "Department",
    "IntendedFor": [
       "ses-008/func/sub-06_ses-008_task-figures09_run-02_bold.nii.gz",
+      "ses-008/func/sub-06_ses-008_task-figures10_run-02_bold.nii.gz",
+      "ses-008/func/sub-06_ses-008_task-figures11_run-02_bold.nii.gz",
       "ses-008/func/sub-06_ses-008_task-figures12_run-02_bold.nii.gz"
    ],
    "MRAcquisitionType": "2D",

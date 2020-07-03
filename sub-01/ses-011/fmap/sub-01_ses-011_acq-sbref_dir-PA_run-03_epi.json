@@ -38,6 +38,8 @@
    "InstitutionName": "IUGM",
    "InstitutionalDepartmentName": "Department",
    "IntendedFor": [
+      "ses-011/func/sub-01_ses-011_task-figures01_run-02_bold.nii.gz",
+      "ses-011/func/sub-01_ses-011_task-figures02_run-02_bold.nii.gz",
       "ses-011/func/sub-01_ses-011_task-figures03_run-02_bold.nii.gz",
       "ses-011/func/sub-01_ses-011_task-figures04_run-02_bold.nii.gz"
    ],

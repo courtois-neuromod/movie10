@@ -24,7 +24,11 @@
     "M",
     "ND",
     "MOSAIC"
-],
+  ],
+  "IntendedFor": [
+     "ses-008/func/sub-06_ses-008_task-figures10_run-02_bold.nii.gz",
+     "ses-008/func/sub-06_ses-008_task-figures11_run-02_bold.nii.gz"
+  ],
   "ImagingFrequency": 123.259,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "InstitutionAddress": "Chemin_Queen-Mary_4565_Montreal_District_CA_H3W_1W5",
