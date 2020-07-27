@@ -1,4 +1,4 @@
 [submodule "derivatives/fmriprep-20.1.0"]
 	path = derivatives/fmriprep-20.1.0
-	url = ./derivatives/fmriprep-20.1.0
+	url = git@github.com:courtois-neuromod/movie10.fmriprep.git
 	datalad-id = d72da5d4-c6cd-11ea-8071-98039b13f0b9
