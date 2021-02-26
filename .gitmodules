@@ -2,10 +2,12 @@
 	path = derivatives/fmriprep-20.1.0
 	url = git@github.com:courtois-neuromod/movie10.fmriprep.git
 	datalad-id = d72da5d4-c6cd-11ea-8071-98039b13f0b9
+	branch = .
 [submodule "derivatives/fmriprep-20.2lts"]
 	path = derivatives/fmriprep-20.2lts
 	url = git@github.com:courtois-neuromod/movie10.fmriprep-lts.git
 	datalad-id = d6bb06b9-a05e-4e4a-89d6-2e6210690cc8
+	branch = .
 [submodule "sourcedata"]
 	path = sourcedata
 	url = ./sourcedata
