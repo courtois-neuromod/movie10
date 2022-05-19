@@ -17,3 +17,8 @@
 	path = derivatives/mriqc-0.16
 	url = ./derivatives/mriqc-0.16
 	datalad-id = d106d069-202b-40ab-8acc-eec180998ac4
+[submodule "stimuli"]
+	path = stimuli
+	url = git@github.com:courtois-neuromod/movie10.stimuli.git
+	datalad-id = a9ff7995-4d2d-4ea7-9b23-ec17f0c66a61
+	datalad-url = git@github.com:courtois-neuromod/movie10.stimuli.git
