@@ -29,6 +29,16 @@
         "design",
         "doc"
       ]
+    },
+    {
+      "login": "emilie-dessureault",
+      "name": "emilie-dessureault",
+      "avatar_url": "https://avatars.githubusercontent.com/u/61021023?v=4",
+      "profile": "https://github.com/emilie-dessureault",
+      "contributions": [
+        "data",
+        "projectManagement"
+      ]
     }
   ],
   "contributorsPerLine": 7
