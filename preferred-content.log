@@ -2,5 +2,5 @@
 4e049797-1952-4454-b50c-1e8842016f36 include=stimuli/* timestamp=1573763560.164169647s
 6879c193-a985-46c8-9b0f-fee62b9e7551 metadata=distribution-restrictions=* timestamp=1655513226.525084171s
 dda34bcb-3443-462b-abf6-e63ee4a14e24  timestamp=1567801704.650947645s
-fc3ebb39-a760-4040-bbf3-124b763fcc85 include=sub-0[135]/ and exclude=sub-0[246]/ and not metadata=distribution-restrictions=* timestamp=1685643448.628409242s
+fc3ebb39-a760-4040-bbf3-124b763fcc85 not metadata=distribution-restrictions=* and include=sub-0[135]/** and exclude=sub-0[246]/** timestamp=1686085842.615748755s
 fe2decdf-867b-437d-b82e-06a84f043d9d include=derivatives/* timestamp=1570477206.343448424s
