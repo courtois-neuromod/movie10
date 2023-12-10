@@ -1,0 +1,12 @@
+{
+    "SamplingFrequency": 10000.0,
+    "StartTime": 17.1506,
+    "Columns": [
+        "time",
+        "EDA",
+        "PPG",
+        "ECG",
+        "TTL",
+        "RSP"
+    ]
+}
